@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Name of Brand</string>
+
+    <string-array name="name_brand">
+        <item>Adidas</item>
+        <item>Chanel</item>
+        <item>Dior</item>
+        <item>Gucci</item>
+        <item>Nike</item>
+        <item>Uniqlo</item>
+        <item>Zara</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>Germany (1949)</item>
+        <item>France (1909)</item>
+        <item>France (1946)</item>
+        <item>Italy (1921)</item>
+        <item>U.S. (1964)</item>
+        <item>Japan (1949)</item>
+        <item>Spain (1975)</item>
+    </string-array>
+</resources>
